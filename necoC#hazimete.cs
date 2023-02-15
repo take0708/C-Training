@@ -1,9 +1,9 @@
 using System;
 
-class Myname01
+class MyName01
 {
-  public static void main()
+  public static void Main()
   {
-    Console.WriteLine("私の名前は＂)
+    Debug.Log("現在学習中です");
   }
 }
