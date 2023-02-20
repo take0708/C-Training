@@ -4,6 +4,6 @@ class MyName01
 {
   public static void Main()
   {
-    Debug.Log("今日は休む日");
+    Debug.Log("あと少しで何かが分かりそう");
   }
 }
