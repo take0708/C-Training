@@ -4,6 +4,6 @@ class MyName01
 {
   public static void Main()
   {
-    Debug.Log("リスト？？");
+    Debug.Log("リスト？？？");
   }
 }
